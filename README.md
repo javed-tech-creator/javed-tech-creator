@@ -1,13 +1,13 @@
 ### A passionate Full Stack Web Developer from India
 
-📧 **Email Me** 👉 ✉️ yashtrivedi.contact@gmail.com for collaboration, projects, or anything tech-related. 😊😊
+📧 **Email Me** 👉 ✉️ javed1dev@gmail.com for collaboration, projects, or anything tech-related. 😊😊
 
 🔭 **I’m currently working on:** Real-time full stack web applications like clinic management systems, chat apps, and inventory tools using the **MERN stack**  
 🌱 **I’m currently learning:** Advanced concepts in **React.js**, **GraphQL**, **database optimization**, and **AI integration** using tools like **ChatGPT APIs**  
 👯 **I’m looking to collaborate on:** Scalable web platforms, open-source projects, or startups that need a fast, clean, and secure tech stack  
 🤔 **I’m looking for help with:** Backend performance tuning, complex database structures, and deploying high-traffic apps efficiently  
 💬 **Ask me about:** Full stack web development, **Node.js**, **MongoDB**, **REST APIs**, **JWT authentication**, and scalable frontend design  
-📫 **How to reach me:** yashtrivedi.contact@gmail.com  
+📫 **How to reach me:** javed1dev@gmail.com  
 😄 **Pronouns:** Yash / He/Him  
 ⚡ **Fun fact:** I once built and deployed a real-time chat app, complete with file sharing and authentication, in just a few days!
 
@@ -28,7 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashtrivedi1234&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash-Trivedi-contact) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashtrivedi.contact@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javed_shaikh012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javed-ahmad-8a7754259) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -37,6 +37,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=yashtrivedi1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashtrivedi1234&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=javed-tech-creator&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
