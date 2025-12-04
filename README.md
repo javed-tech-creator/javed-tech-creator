@@ -1,4 +1,4 @@
-### A passionate Full Stack Web Developer from India
+### A passionate MERN Full Stack Web Developer from India
 
 📧 **Email Me** 👉 ✉️ javed1dev@gmail.com for collaboration, projects, or anything tech-related. 😊😊
 
