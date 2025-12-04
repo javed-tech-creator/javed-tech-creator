@@ -2,7 +2,7 @@
 
 📧 **Email Me** 👉 ✉️ javed1dev@gmail.com for collaboration, projects, or anything tech-related. 😊😊
 
-🔭 **I’m currently working on:** Real-time full stack web applications like clinic management systems, chat apps, and inventory tools using the **MERN stack**  
+🔭 **I’m currently working on:** Real-time full stack web applications like Custom CRM Software, Star Motors Website, and inventory tools using the **MERN stack**  
 🌱 **I’m currently learning:** Advanced concepts in **React.js**, **GraphQL**, **database optimization**, and **AI integration** using tools like **ChatGPT APIs**  
 👯 **I’m looking to collaborate on:** Scalable web platforms, open-source projects, or startups that need a fast, clean, and secure tech stack  
 🤔 **I’m looking for help with:** Backend performance tuning, complex database structures, and deploying high-traffic apps efficiently  
